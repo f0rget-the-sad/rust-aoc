@@ -5,6 +5,7 @@ authors = ["f0rget <f0rget@pm.me>"]
 edition = "2018"
 
 [dependencies]
+md-5 = "0.9.1"
 
 [[bin]]
 name = "2015day1"
@@ -17,3 +18,7 @@ path = "src/2015/day2/main.rs"
 [[bin]]
 name = "2015day3"
 path = "src/2015/day3/main.rs"
+
+[[bin]]
+name = "2015day4"
+path = "src/2015/day4/main.rs"
