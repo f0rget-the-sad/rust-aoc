@@ -13,10 +13,10 @@ fn main() {
     //assert_eq!(res2, 0);
 }
 
-fn part1(cont: &str) -> u16 {
+fn part1(cont: &str) -> u32 {
     0
 }
 
-fn part2(cont: &str) -> u16 {
+fn part2(cont: &str) -> u32 {
     0
 }
