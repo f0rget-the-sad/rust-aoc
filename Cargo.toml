@@ -6,6 +6,8 @@ edition = "2018"
 
 [dependencies]
 md-5 = "0.9.1"
+regex = "1"
+itertools = "0.9.0"
 
 [[bin]]
 name = "2015day1"
@@ -37,3 +39,6 @@ path = "src/2015/day7/main.rs"
 [[bin]]
 name = "2015day8"
 path = "src/2015/day8/main.rs"
+[[bin]]
+name = "2015day9"
+path = "src/2015/day9/main.rs"
